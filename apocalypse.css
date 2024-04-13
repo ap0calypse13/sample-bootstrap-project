@@ -1,0 +1,129 @@
+<<<<<<< Updated upstream
+
+
+.navbar{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.img1{
+    width: 200px;
+}
+.navbar-brand{
+    font-size: xx-large
+}
+
+.accordion{
+    background-color: aliceblue;
+    margin-top: 20px;
+    float:right;
+}
+#lside{
+    
+    font-size: larger;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+p{
+   padding-top: 15px;
+}
+.isg{
+    font-size: xx-large;
+} 
+#imgupnav{ 
+    width:30%;
+    padding-top: 10px;
+}
+.upnavh1{
+    font-size: x-large;
+    padding-top: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#text{
+    padding-left: 50px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.sizep{
+    font-size: x-large;
+}
+#pic{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding-left: 250px;
+}
+.foter2{
+    margin-right: 60px;
+    padding-top: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.foter-p{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.foter1{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding-right: 100px;
+}
+=======
+
+
+.navbar{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.img1{
+    width: 200px;
+}
+.navbar-brand{
+    font-size: xx-large
+}
+
+.accordion{
+    background-color: aliceblue;
+    margin-top: 20px;
+    float:right;
+}
+#lside{
+    
+    font-size: larger;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+p{
+   padding-top: 15px;
+}
+.isg{
+    font-size: xx-large;
+} 
+#imgupnav{ 
+    width:30%;
+    padding-top: 10px;
+}
+.upnavh1{
+    font-size: x-large;
+    padding-top: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#text{
+    padding-left: 50px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.sizep{
+    font-size: x-large;
+}
+#pic{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding-left: 250px;
+}
+.foter2{
+    margin-right: 60px;
+    padding-top: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.foter-p{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.foter1{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding-right: 100px;
+}
+>>>>>>> Stashed changes
